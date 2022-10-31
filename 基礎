@@ -1,0 +1,9 @@
+10/31
+各種初期インストール (webpackerまで,以下に列挙)
+AWSアカウント作成、cloud9設定
+Ruby 2.7.6
+rails 6.0.4
+bundler
+Cloud 9環境のディスク容量アップとクラウドIDEへのyarnインストール
+rails new 実行
+Bundlerの実行
